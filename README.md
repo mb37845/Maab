@@ -2,14 +2,6 @@
 
 This repository contains the source code for the Amlaak Energy Resources social media landing page. The goal of this project is to provide a centralized hub for all official company links and social media channels.
 
-## 🔗 Official Links
-
-* **Website:** [Amlaak Energy Resources](https://amlaakenergy.com)
-* **LinkedIn:** [Follow us on LinkedIn](#)
-* **WhatsApp:** [Join our Channel](#)
-* **Instagram:** [Follow @Amlaak](#)
-* **Twitter/X:** [Follow @Amlaak](#)
-
 ## 🛠️ Tech Stack
 
 * **Frontend:** HTML5, CSS3
